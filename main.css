@@ -186,4 +186,11 @@ html{
 .items {
     display:flex;
     justify-content:space-between;
+    gap:20px;
 }
+.item {
+    flex:1;
+    text-align:center;
+}
+    
+
