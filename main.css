@@ -181,4 +181,9 @@ html{
 
 #contact .contact-form ul li a:hover {
  opacity: 0.8;
+
+}
+.items {
+    display:flex;
+    justify-content:space-between;
 }
